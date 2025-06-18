@@ -1,5 +1,5 @@
 # myProjects
-Case study for the Bright tv to increse viewership
+Case study for the Bright tv to increase viewership
 This project aims to leverage data insights to drive subscription growth for BrightTV. The primary objectives are to analyze user demographics, understand factors influencing consumption, identify churn patterns, and develop targeted marketing and retention strategies.
 
 To achieve these goals, we will collect and analyze user data using advanced analytics tools and platforms, segment users based on viewing habits and demographics, and create data-informed campaigns to enhance engagement. Key tools include data analytics software, marketing automation platforms, and customer relationship management (CRM) systems.
